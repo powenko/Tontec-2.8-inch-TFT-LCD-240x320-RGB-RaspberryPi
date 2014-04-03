@@ -1,0 +1,12 @@
+#!/bin/sh
+
+### BEGIN INIT INFO
+# Provides:        lcd
+# Required-Start:  
+# Required-Stop:   
+# Default-Start:   2 3 4 5
+# Default-Stop: 0 1 6
+# Short-Description: Start lcd daemon
+### END INIT INFO
+
+sudo /home/pi/MZ280H-PI-EXT/src/mz280h
